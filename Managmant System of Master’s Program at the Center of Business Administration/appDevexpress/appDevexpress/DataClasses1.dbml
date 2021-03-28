@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="MSM" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=MSM;Integrated Security=True" SettingsObjectName="appDevexpress.Properties.Settings" SettingsPropertyName="MSMConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Add_Courses" Member="Add_Courses">
+    <Type Name="Add_Course">
+      <Column Name="course_code" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="type" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="hours" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Add_Course_Course" Member="Courses" ThisKey="course_code" OtherKey="course_code" Type="Course" />
+      <Association Name="Add_Course_Exam" Member="Exams" ThisKey="course_code" OtherKey="course_code" Type="Exam" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Courses" Member="Courses">
+    <Type Name="Course">
+      <Column Name="code" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="course_code" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="doctor_code" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Intake_code" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ISPN" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="program_code" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="from_date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="to_date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="[plan]" Member="plan" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Add_Course_Course" Member="Add_Course" ThisKey="course_code" OtherKey="course_code" Type="Add_Course" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Acadimic_Staff_Course" Member="Acadimic_Staff" ThisKey="doctor_code" OtherKey="doctor_code" Type="Acadimic_Staff" IsForeignKey="true" />
+      <Association Name="Intake_Course" Member="Intake" ThisKey="Intake_code" OtherKey="Intake_code" Type="Intake" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Book_Course" Member="Book" ThisKey="ISPN" OtherKey="ISPN" Type="Book" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Program_Course" Member="Program" ThisKey="program_code" OtherKey="program_code" Type="Program" IsForeignKey="true" />
+      <Association Name="Intake1_Course" Member="Intake1" ThisKey="Intake_code" OtherKey="Intake_code" Type="Intake1" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Acadimic_Staff" Member="Acadimic_Staffs">
+    <Type Name="Acadimic_Staff">
+      <Column Name="doctor_code" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="first_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="middle_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="last_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="cell_phone" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="office_phone" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="fax" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="sex" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="major" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="scientific_degree" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="qualifies" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="organization" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="nationality" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="cv" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="address" Type="System.String" DbType="VarChar(70) NOT NULL" CanBeNull="false" />
+      <Column Name="date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Association Name="Acadimic_Staff_Course" Member="Courses" ThisKey="doctor_code" OtherKey="doctor_code" Type="Course" />
+      <Association Name="Acadimic_Staff_Exam" Member="Exams" ThisKey="doctor_code" OtherKey="doctor_code" Type="Exam" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Intake" Member="Intakes">
+    <Type Name="Intake">
+      <Column Name="Intake_code" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="num_intake" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="year" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Association Name="Intake_Course" Member="Courses" ThisKey="Intake_code" OtherKey="Intake_code" Type="Course" />
+      <Association Name="Intake_Exam" Member="Exams" ThisKey="Intake_code" OtherKey="Intake_code" Type="Exam" />
+      <Association Name="Intake_Registered_student" Member="Registered_students" ThisKey="Intake_code" OtherKey="Intake_code" Type="Registered_student" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Exam" Member="Exams">
+    <Type Name="Exam">
+      <Column Name="Exam_code" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="course_code" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="doctor_code" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Intake_code" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="date_exam" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="date_resetExam" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="path" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Acadimic_Staff_Exam" Member="Acadimic_Staff" ThisKey="doctor_code" OtherKey="doctor_code" Type="Acadimic_Staff" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Add_Course_Exam" Member="Add_Course" ThisKey="course_code" OtherKey="course_code" Type="Add_Course" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Intake_Exam" Member="Intake" ThisKey="Intake_code" OtherKey="Intake_code" Type="Intake" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Intake1_Exam" Member="Intake1" ThisKey="Intake_code" OtherKey="Intake_code" Type="Intake1" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.View_Acadimic" Member="View_Acadimics">
+    <Type Name="View_Acadimic">
+      <Column Name="doctor_code" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="first_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="middle_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="last_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Book" Member="Books">
+    <Type Name="Book">
+      <Column Name="ISPN" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="publisher" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="auther" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="text_book" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Book_Course" Member="Courses" ThisKey="ISPN" OtherKey="ISPN" Type="Course" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Program" Member="Programs">
+    <Type Name="Program">
+      <Column Name="program_code" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="type" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Program_Course" Member="Courses" ThisKey="program_code" OtherKey="program_code" Type="Course" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Intake" Member="Intake1s">
+    <Type Name="Intake1">
+      <Column Name="Intake_code" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="num_intake" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="year" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Association Name="Intake1_Course" Member="Courses" ThisKey="Intake_code" OtherKey="Intake_code" Type="Course" />
+      <Association Name="Intake1_Exam" Member="Exams" ThisKey="Intake_code" OtherKey="Intake_code" Type="Exam" />
+      <Association Name="Intake1_Registered_student" Member="Registered_students" ThisKey="Intake_code" OtherKey="Intake_code" Type="Registered_student" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TB_List" Member="TB_Lists">
+    <Type Name="TB_List">
+      <Column Name="list_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="list_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="TB_List_TB_Screen" Member="TB_Screens" ThisKey="list_ID" OtherKey="list_ID" Type="TB_Screen" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TB_Screens" Member="TB_Screens">
+    <Type Name="TB_Screen">
+      <Column Name="Screen_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Screen_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="list_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="TB_Screen_TB_Priv" Member="TB_Privs" ThisKey="Screen_ID" OtherKey="Priv_Srceen_ID" Type="TB_Priv" />
+      <Association Name="TB_List_TB_Screen" Member="TB_List" ThisKey="list_ID" OtherKey="list_ID" Type="TB_List" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Users" Member="Users">
+    <Type Name="User">
+      <Column Name="user_code" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="employee_name" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="user_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Association Name="User_TB_Priv" Member="TB_Privs" ThisKey="user_code" OtherKey="Priv_User_ID" Type="TB_Priv" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TB_Priv" Member="TB_Privs">
+    <Type Name="TB_Priv">
+      <Column Name="Priv_User_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Priv_Srceen_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Priv_Display" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Priv_Add" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Priv_Edit" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Priv_Delete" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="TB_Screen_TB_Priv" Member="TB_Screen" ThisKey="Priv_Srceen_ID" OtherKey="Screen_ID" Type="TB_Screen" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="User_TB_Priv" Member="User" ThisKey="Priv_User_ID" OtherKey="user_code" Type="User" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Registered_student" Member="Registered_students">
+    <Type Name="Registered_student">
+      <Column Name="Unique_num" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TOEFL" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Specialization" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Worked_Fulltime" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="document_path" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="student_id" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="state_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Intake_code" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="accepted" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="Intake_Registered_student" Member="Intake" ThisKey="Intake_code" OtherKey="Intake_code" Type="Intake" IsForeignKey="true" />
+      <Association Name="Intake1_Registered_student" Member="Intake1" ThisKey="Intake_code" OtherKey="Intake_code" Type="Intake1" IsForeignKey="true" />
+      <Association Name="Student_Registered_student" Member="Student" ThisKey="student_id" OtherKey="student_id" Type="Student" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Student" Member="Students">
+    <Type Name="Student">
+      <Column Name="student_id" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="M_F" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="counterpart" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Age" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="first_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="middle_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="family_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="home_address" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="city" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="postal_code" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="country" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="home_telephone" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="home_fax" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="mobile_phone" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="personal_email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="date_birth" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="place_birth" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="nationality" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="preferred_address" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="data_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="data_passport_num" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="data_issue_place" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="data_date_issue" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="data_date_expiration" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="emergency_person" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="emergency_type_relation" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="emergency_address" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="emergency_city" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="emergency_code" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="emergency_country" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="emergency_telephone" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="emergency_fax" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="emergency_mobile" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="emergency_email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="educational_highest" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="educational_highest_other" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="educational_list_academic" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="educational_institute1" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="educational_start_date1" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="educational_finish_date1" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="educational_degree1" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="educational_majer1" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="educational_institute2" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="educational_start_date2" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="educational_finish_date2" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="educational_degree2" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="educational_majer2" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="educational_institute3" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="educational_start_date3" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="educational_finish_date3" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="educational_degree3" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="educational_majer3" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="professional_name_org" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="professional_type_org" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="professional_business_add" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="professional_city" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="professional_code" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="professional_country" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="professional_telephone" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="professional_fax" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="professional_email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="professional_current_position" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="professional_position_since" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="professional_description" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="professional_name_org1" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="professional_position_held1" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="professional_start_date1" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="professional_finish_date1" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="professional_description1" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="professional_name_org2" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="professional_position_held2" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="professional_start_date2" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="professional_finish_date2" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="professional_description2" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="recommend_name" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="areas_account" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="areas_law" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="areas_ethics" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="areas_economic" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="areas_finance" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="areas_IB" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="areas_MIS" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="areas_market" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="areas_math" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="areas_operation" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="areas_org_behavior" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="areas_research_skill" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="areas_statistic" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="areas_strategy" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="areas_GMAT" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="areas_GMAT_yes_date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="areas_GMAT_score" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="proficiency_oral" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="proficiency_written" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="proficiency_english_lang" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="proficiency_lang_yes_date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="proficiency_lang_yes_score" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="proficiency_lang_other" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="proficiency_result" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="profes_obj_learning" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="profes_obj_expectation" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="profes_obj_AC" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="other_program" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="other_about_program" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="other_about_PA" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="other_about_other" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Student_Registered_student" Member="Registered_students" ThisKey="student_id" OtherKey="student_id" Type="Registered_student" />
+    </Type>
+  </Table>
+  <Table Name="dbo.View_reseach" Member="View_reseaches">
+    <Type Name="View_reseach">
+      <Column Name="student_id" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Function Name="dbo.GET_ALL_Course_B_D" Method="GET_ALL_Course_B_D">
+    <ElementType Name="GET_ALL_Course_B_DResult">
+      <Column Name="code" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Name_Course" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="First_Name_Doctor" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Last_Name_Doctor" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Name_Program" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Name_Intake" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Name_Book" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="From_Date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="To_Date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="[Plan]" Member="Plan" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.GET_ALL_intake" Method="GET_ALL_intake">
+    <ElementType Name="GET_ALL_intakeResult">
+      <Column Name="Intake_code" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Number Of Intake]" Member="Number_Of_Intake" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Year" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.GET_ALL_Exam" Method="GET_ALL_Exam">
+    <ElementType Name="GET_ALL_ExamResult">
+      <Column Name="Exam_code" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="[Name OF Course]" Member="Name_OF_Course" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="First_name_Doctor" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Last_name_Doctor" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Name OF Intake]" Member="Name_OF_Intake" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[ From]" Member="_From" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="[To]" Member="To" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="[Path OF Plan]" Member="Path_OF_Plan" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.GET_ALL_Add_course" Method="GET_ALL_Add_course">
+    <ElementType Name="GET_ALL_Add_courseResult">
+      <Column Name="course_code" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Type" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Houres" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.Add_Program" Method="Add_Program">
+    <Parameter Name="name" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="type" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.GET_ALL_Program" Method="GET_ALL_Program">
+    <ElementType Name="GET_ALL_ProgramResult">
+      <Column Name="program_code" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Type" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.DELETE_Program" Method="DELETE_Program">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <Parameter Name="name" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="type" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.GET_ALL_Acadimic_Staff" Method="GET_ALL_Acadimic_Staff">
+    <ElementType Name="GET_ALL_Acadimic_StaffResult">
+      <Column Name="doctor_code" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="First_Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Middle_Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Last_Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Cell_Phone" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Office_Phone" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Fax" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Sex" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Major" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Scientific_degree" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Qualifies" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Organization" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Nationality" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Cv" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Address" Type="System.String" DbType="VarChar(70) NOT NULL" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.GET_ALL_Privileges" Method="GET_ALL_Privileges">
+    <Parameter Name="list_id" Type="System.Int32" DbType="Int" />
+    <Parameter Name="user_id" Type="System.Int32" DbType="Int" />
+    <ElementType Name="GET_ALL_PrivilegesResult">
+      <Column Name="Screen_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="[Name Screen]" Member="Name_Screen" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Display" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="[Add]" Member="Add" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Edit" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="[Delete]" Member="Delete" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.Add_Research" Method="Add_Research">
+    <Parameter Name="doctor_code" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Unique_num" Parameter="unique_num" Type="System.Int32" DbType="Int" />
+    <Parameter Name="date" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="type" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="title_research" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.DELETE_Research" Method="DELETE_Research">
+    <Parameter Name="Research_code" Parameter="research_code" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.GET_All_Research" Method="GET_All_Research">
+    <ElementType Name="GET_All_ResearchResult">
+      <Column Name="unique_num" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Supervisor_FirstName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Supervisor_LastName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Title_research" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Type" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.UPDATE_Research" Method="UPDATE_Research">
+    <Parameter Name="Research_code" Parameter="research_code" Type="System.Int32" DbType="Int" />
+    <Parameter Name="doctor_code" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Unique_num" Parameter="unique_num" Type="System.Int32" DbType="Int" />
+    <Parameter Name="date" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="type" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="title_research" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.Get_Supervisor" Method="Get_Supervisor">
+    <ElementType Name="Get_SupervisorResult">
+      <Column Name="first_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="middle_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="last_name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="doctor_code" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.Get_All_Grade_Discussant" Method="Get_All_Grade_Discussant">
+    <ElementType Name="Get_All_Grade_DiscussantResult">
+      <Column Name="Unique_num" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="first_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="family_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="middle_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="grade_disc_Supervisor" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="grade_disc_internal" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="grade_disc_external" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

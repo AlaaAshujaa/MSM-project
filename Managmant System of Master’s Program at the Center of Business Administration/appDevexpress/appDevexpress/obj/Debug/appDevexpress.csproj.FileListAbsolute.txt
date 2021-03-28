@@ -1,0 +1,876 @@
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe.config
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\appDevexpress.pdb
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csprojResolveAssemblyReference.cache
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.MSM.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Properties.Resources.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.GenerateResource.Cache
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe.licenses
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.pdb
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctor.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Create_Backup.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Resture_Backup.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Master_Programs.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examcs.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add__Courses.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Course_B_D.resources
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe.config
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\obj\Debug\appDevexpress.pdb
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csprojResolveAssemblyReference.cache
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add__Courses.resources
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Course_B_D.resources
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examcs.resources
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Master_Programs.resources
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Resture_Backup.resources
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Create_Backup.resources
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctor.resources
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Form1.resources
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\obj\Debug\appDevexpress.MSM.resources
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Properties.Resources.resources
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.GenerateResource.Cache
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe.licenses
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe
+E:\مشروع التخرج\MPA project web\appDevexpress\appDevexpress\bin\Debug\appDevexpress.pdb
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Common.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Core.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Extensions.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.UserControls.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Parser.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Platform.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Interop.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Decompiler.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.IntelliRush.Core.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Localization.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Common.xml
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Core.xml
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Extensions.xml
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.UserControls.xml
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Parser.xml
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.xml
+E:\مشروع التخرج\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.xml
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Intake.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Users.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Login.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Privileges.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Discussant.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_GradeDiscussion.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Research.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_Center.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_MSM.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Books.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Failed_Students.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Graduate_Student.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Regestered_Students.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Request_ResetExam.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Requset_Course.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grades.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_Information_cs.resources
+E:\مشروع التخرج\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_State.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe.config
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.pdb
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\appDevexpress.pdb
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\MetroFramework.Design.dll
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Extensions.xml
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csprojResolveAssemblyReference.cache
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add__Courses.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Books.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Discussant.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_GradeDiscussion.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Users.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Course_B_D.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examcs.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Failed_Students.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grades.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Graduate_Student.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_Center.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_MSM.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.INTAKE.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Login.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Master_Programs.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Privileges.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Regestered_Students.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Request_ResetExam.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Requset_Course.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Research.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Resture_Backup.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_Information_cs.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_State.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Create_Backup.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctor.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.MSM.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Properties.Resources.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.GenerateResource.Cache
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe.licenses
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_backup.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_course.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_grievence.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_search.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.std_home.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Accepted_student.resources
+C:\Users\nada\Desktop\programs\مجلد جديد\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendence.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe.config
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.pdb
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csprojResolveAssemblyReference.cache
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Accepted_student.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add__Courses.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Books.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Discussant.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_GradeDiscussion.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Users.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendence.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Course_B_D.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examcs.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Failed_Students.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grades.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Graduate_Student.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_Center.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_MSM.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_backup.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_course.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_grievence.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_search.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.INTAKE.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Login.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Master_Programs.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Privileges.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Regestered_Students.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Request_ResetExam.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Requset_Course.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Research.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Resture_Backup.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.std_home.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_Information_cs.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_State.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Create_Backup.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctor.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.MSM.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Properties.Resources.resources
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.GenerateResource.Cache
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe.licenses
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\appDevexpress.pdb
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Common.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Core.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Extensions.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.UserControls.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraVerticalGrid.v6.3.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Parser.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Platform.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Interop.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Decompiler.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.IntelliRush.Core.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Localization.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Common.xml
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Core.xml
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Extensions.xml
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.UserControls.xml
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Parser.xml
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.xml
+E:\مشروع التخرج\Project22wwww\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe.config
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\appDevexpress.pdb
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Extensions.xml
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Accepted_student.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add__Courses.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Books.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Discussant.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_GradeDiscussion.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Users.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendence.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Course_B_D.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examcs.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Failed_Students.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grades.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Graduate_Student.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_Center.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_MSM.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_backup.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_course.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_grievence.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_search.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.INTAKE.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Login.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Master_Programs.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Privileges.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Request_ResetExam.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Requset_Course.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Research.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Resture_Backup.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.std_home.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_Information_cs.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_State.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Create_Backup.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctor.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.MSM.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Properties.Resources.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe.licenses
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.pdb
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.ResolveComReference.cache
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.inta.resources
+C:\Users\Computer\Desktop\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Mail.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe.config
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.ResolveComReference.cache
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.pdb
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\appDevexpress.pdb
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Extensions.xml
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.UserControls.xml
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csprojResolveAssemblyReference.cache
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Accepted_student.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add__Courses.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Books.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Discussant.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_GradeDiscussion.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Users.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendence.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Course_B_D.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examcs.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Failed_Students.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grades.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Graduate_Student.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_Center.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_MSM.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_backup.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_course.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_grievence.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_search.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.INTAKE.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Login.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Mail.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Master_Programs.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Privileges.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.inta.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Request_ResetExam.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Requset_Course.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Research.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Resture_Backup.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.std_home.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_Information_cs.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_State.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Create_Backup.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctor.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.MSM.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Properties.Resources.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.GenerateResource.Cache
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe.licenses
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Reports.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Report_result.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.XtraReport1.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Assignment_report.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendance_sheet.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctors_report.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Eamination_interface.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_attendance_report.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.report_attendance.resources
+C:\Users\KHULOOD ABU-ROSHOOD\Desktop\Bluetooth\appDevexpress\appDevexpress\obj\Debug\appDevexpress.XtraReport2.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe.config
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.ResolveComReference.cache
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.pdb
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\appDevexpress.pdb
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.dll
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Interop.dll
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Decompiler.dll
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.dll
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.IntelliRush.Core.dll
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.dll
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Localization.dll
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.dll
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Common.xml
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Core.xml
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Extensions.xml
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.UserControls.xml
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Parser.xml
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.xml
+E:\سنه رابعة\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.xml
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csprojResolveAssemblyReference.cache
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Accepted_student.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add__Courses.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Books.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Discussant.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_GradeDiscussion.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Users.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Assignment_report.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendance_list.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendance_sheet.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendence.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.BOOK.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Course_B_D.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctors_report.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Eamination_interface.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_attendance_report.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Participant_progress.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.report_attendance.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Report_result.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.XtraReport1.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.XtraReport2.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examcs.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Failed_Students.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grades.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Graduate_Student.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_Center.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_MSM.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_backup.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_course.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_grievence.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_search.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.INTAKE.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Login.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Mail.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Master_Programs.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Privileges.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.inta.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Request_ResetExam.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Requset_Course.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Research.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Resture_Backup.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.std_home.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_Information_cs.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_State.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Create_Backup.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctor.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.MSM.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Properties.Resources.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.GenerateResource.Cache
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe.licenses
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Report_student.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendance_Design.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Course_show.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_Reports.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Brief_show.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attedance_list.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.list_show.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.student_reporting2.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.student_show.resources
+E:\سنه رابعة\appDevexpress\appDevexpress\obj\Debug\appDevexpress.student_view_report.resources
+F:\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe.config
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.ResolveComReference.cache
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.pdb
+F:\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe
+F:\appDevexpress\appDevexpress\bin\Debug\appDevexpress.pdb
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.dll
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Interop.dll
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Decompiler.dll
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.dll
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.IntelliRush.Core.dll
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.dll
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Localization.dll
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.dll
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Common.xml
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Core.xml
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Extensions.xml
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.UserControls.xml
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Parser.xml
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.xml
+F:\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.xml
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csprojResolveAssemblyReference.cache
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Accepted_student.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add__Courses.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Books.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Discussant.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_GradeDiscussion.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Users.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Assignment_report.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attedance_list.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendance_Design.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendance_list.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendance_sheet.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendence.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.BOOK.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Brief_show.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Course_B_D.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Course_show.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctors_report.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Eamination_interface.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_attendance_report.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_Reports.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.list_show.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Participant_progress.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.report_attendance.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Report_result.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Report_student.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.student_reporting2.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.student_show.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.student_view_report.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.XtraReport1.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.XtraReport2.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examcs.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Failed_Students.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grades.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Graduate_Student.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_Center.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_MSM.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_backup.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_course.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_grievence.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_search.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.INTAKE.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Login.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Mail.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Master_Programs.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Privileges.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.inta.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Request_ResetExam.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Requset_Course.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Research.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Resture_Backup.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.std_home.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_Information_cs.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_State.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Create_Backup.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctor.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.MSM.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Properties.Resources.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.GenerateResource.Cache
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe.licenses
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Regestered.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.About_Programmers.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.doctor_show.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.examination.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.examination_post.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examinees_post.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examinition_show.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_Attendance.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_attendance_show.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_design.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.post_show.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.research_design.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Result_design.resources
+F:\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Result_show.resources
+F:\last project\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe.config
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.ResolveComReference.cache
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.pdb
+F:\last project\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe
+F:\last project\appDevexpress\appDevexpress\bin\Debug\appDevexpress.pdb
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.dll
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Interop.dll
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Decompiler.dll
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.dll
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.IntelliRush.Core.dll
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.dll
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Localization.dll
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.dll
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Common.xml
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Core.xml
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Extensions.xml
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.UserControls.xml
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Parser.xml
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.xml
+F:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.xml
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csprojResolveAssemblyReference.cache
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.About_Programmers.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Accepted_student.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add__Courses.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Books.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Discussant.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_GradeDiscussion.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Users.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Assignment_report.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attedance_list.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendance_Design.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendance_list.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendance_sheet.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendence.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.BOOK.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Brief_show.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Course_B_D.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Course_show.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctors_report.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.doctor_show.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Eamination_interface.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.examination.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.examination_post.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examinees_post.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examinition_show.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_Attendance.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_attendance_report.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_attendance_show.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_design.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_Reports.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.list_show.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Participant_progress.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.post_show.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Regestered.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.report_attendance.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Report_student.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.research_design.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Result_design.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Result_show.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.student_reporting2.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.student_show.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.student_view_report.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.XtraReport1.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.XtraReport2.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examcs.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Failed_Students.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grades.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Graduate_Student.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_Center.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_MSM.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_backup.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_course.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_grievence.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_search.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.INTAKE.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Login.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Mail.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Master_Programs.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Privileges.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.inta.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Request_ResetExam.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Requset_Course.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Research.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Resture_Backup.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.std_home.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_Information_cs.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_State.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Create_Backup.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctor.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.MSM.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Properties.Resources.resources
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.GenerateResource.Cache
+F:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe.licenses
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe.config
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.ResolveComReference.cache
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.pdb
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\appDevexpress.pdb
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.dll
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Interop.dll
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Decompiler.dll
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.dll
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.IntelliRush.Core.dll
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.dll
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Localization.dll
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.dll
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Common.xml
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Core.xml
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Extensions.xml
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.UserControls.xml
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Parser.xml
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.xml
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.xml
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csprojResolveAssemblyReference.cache
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.About_Programmers.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Accepted_student.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add__Courses.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Books.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Discussant.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_GradeDiscussion.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Users.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Assignment_report.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attedance_list.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendance_Design.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendance_list.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendance_sheet.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendence.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.BOOK.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Brief_show.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Course_B_D.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Course_show.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctors_report.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.doctor_show.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Eamination_interface.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.examination.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.examination_post.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examinees_post.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examinition_show.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_Attendance.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_attendance_report.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_attendance_show.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_design.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_Reports.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.home_sync.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.list_show.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Participant_progress.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.post_show.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Regestered.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.report_attendance.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Report_student.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.research_design.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Result_design.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Result_show.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.student_reporting2.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.student_show.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.student_view_report.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.sync_cba.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.sync_course.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.sync_exam.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.sync_grade.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.sync_msm.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.sync_stcs.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.XtraReport1.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.XtraReport2.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examcs.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Failed_Students.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grades.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Graduate_Student.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_Center.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_MSM.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_backup.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_course.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_grievence.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_search.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.INTAKE.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Login.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Mail.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Master_Programs.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Privileges.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.inta.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Request_ResetExam.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Requset_Course.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Research.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Resture_Backup.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.std_home.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_Information_cs.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_State.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Create_Backup.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctor.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.MSM.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Properties.Resources.resources
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.GenerateResource.Cache
+E:\سنه رابعة\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe.licenses
+D:\last project\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe.config
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.ResolveComReference.cache
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.pdb
+D:\last project\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe
+D:\last project\appDevexpress\appDevexpress\bin\Debug\appDevexpress.pdb
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.dll
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Interop.dll
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Decompiler.dll
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.dll
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.IntelliRush.Core.dll
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Controls.dll
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Localization.dll
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.dll
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Common.xml
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Core.xml
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.Extensions.xml
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.UserControls.xml
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.Parser.xml
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.CodeRush.VSCore.xml
+D:\last project\appDevexpress\appDevexpress\bin\Debug\DevExpress.DXCore.MetaData.xml
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csprojResolveAssemblyReference.cache
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.About_Programmers.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Accepted_student.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add__Courses.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Books.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Discussant.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_GradeDiscussion.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Add_Users.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Assignment_report.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attedance_list.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendance_Design.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendance_list.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendance_sheet.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Attendence.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.BOOK.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Brief_show.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Course_B_D.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Course_show.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctors_report.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.doctor_show.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Eamination_interface.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.examination.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.examination_post.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examinees_post.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examinition_show.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_Attendance.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_attendance_report.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_attendance_show.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Exam_design.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_Reports.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.home_sync.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.list_show.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Participant_progress.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.post_show.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Regestered.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.report_attendance.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Report_student.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.research_design.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Result_design.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Result_show.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.student_reporting2.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.student_show.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.student_view_report.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.sync_cba.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.sync_course.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.sync_exam.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.sync_grade.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.sync_msm.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.sync_stcs.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.XtraReport1.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.XtraReport2.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Examcs.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Failed_Students.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grades.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Graduate_Student.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_Center.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Grievance_MSM.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_backup.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_course.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_grievence.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Home_search.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.INTAKE.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Login.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Mail.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Master_Programs.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Privileges.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.inta.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Request_ResetExam.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Requset_Course.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Research.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Resture_Backup.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.std_home.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_Information_cs.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Student_State.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Create_Backup.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Doctor.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.MSM.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.Properties.Resources.resources
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.GenerateResource.Cache
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe.licenses
+D:\last project\appDevexpress\appDevexpress\obj\Debug\appDevexpress.research_show.resources
+D:\Managmant System of Master’s Program at the Center of Business Administration\MSM C#\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe.config
+D:\Managmant System of Master’s Program at the Center of Business Administration\MSM C#\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.ResolveComReference.cache
+D:\Managmant System of Master’s Program at the Center of Business Administration\MSM C#\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe
+D:\Managmant System of Master’s Program at the Center of Business Administration\MSM C#\appDevexpress\appDevexpress\obj\Debug\appDevexpress.pdb
+D:\Managmant System of Master’s Program at the Center of Business Administration\Project\MSM C#\appDevexpress\appDevexpress\bin\Debug\appDevexpress.exe.config
+D:\Managmant System of Master’s Program at the Center of Business Administration\Project\MSM C#\appDevexpress\appDevexpress\obj\Debug\appDevexpress.csproj.ResolveComReference.cache
+D:\Managmant System of Master’s Program at the Center of Business Administration\Project\MSM C#\appDevexpress\appDevexpress\obj\Debug\appDevexpress.exe
+D:\Managmant System of Master’s Program at the Center of Business Administration\Project\MSM C#\appDevexpress\appDevexpress\obj\Debug\appDevexpress.pdb
